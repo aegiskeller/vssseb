@@ -1,1 +1,1 @@
-# vssseb
+# VSS Southern Eclipsing Binaries
