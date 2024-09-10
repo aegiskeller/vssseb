@@ -1,6 +1,8 @@
 *.csv
 *.xlsx
-*fixed_width*
+fixed_width_file.txt
+output.dat
+*.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
